@@ -6,6 +6,6 @@ The Folder architecture is:
 Python File
 
 Dataset For Langauage
-                        Languages
-                                   Indivaidual Audio Files
+----------------------Languages
+--------------------------------Indivaidual Audio Files
                       
